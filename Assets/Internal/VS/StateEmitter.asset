@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 95e66c6366d904e98bc83428217d4fd7, type: 3}
+  m_Name: StateEmitter
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"graph":{"variables":{"Kind":"Flow","collection":{"$content":[],"$version":"A"},"$version":"A"},"controlInputDefinitions":[],"controlOutputDefinitions":[],"valueInputDefinitions":[],"valueOutputDefinitions":[],"title":null,"summary":null,"pan":{"x":-177.0,"y":-7.5},"zoom":1.0,"elements":[{"nest":{"source":"Macro","macro":0,"embed":null},"defaultValues":{"State":{"$content":0,"$type":"System.Int32"}},"position":{"x":-233.0,"y":-214.0},"guid":"3bc10143-ee25-4fc4-a5cc-8cab9d3c045b","$version":"A","$type":"Unity.VisualScripting.SubgraphUnit"},{"nest":{"source":"Macro","macro":1,"embed":null},"defaultValues":{},"position":{"x":-234.0,"y":-56.0},"guid":"985f0ce9-b8a9-44a6-934f-5d97df4464bc","$version":"A","$type":"Unity.VisualScripting.SubgraphUnit"},{"nest":{"source":"Macro","macro":2,"embed":null},"defaultValues":{"State":{"$content":1,"$type":"System.Int32"}},"position":{"x":-226.0,"y":89.0},"guid":"e408a613-e1c8-43bb-b047-f1c455decf39","$version":"A","$type":"Unity.VisualScripting.SubgraphUnit"}],"$version":"A"}}'
+    _objectReferences:
+    - {fileID: 11400000, guid: 856f1d7e160c540e8b34277e96fcefe8, type: 2}
+    - {fileID: 11400000, guid: 8e144dd202c1945b3a30263afedd0916, type: 2}
+    - {fileID: 11400000, guid: 29c19733488cc483299cb7cdd382a09e, type: 2}
